@@ -13,7 +13,7 @@ mathjax: true
 ---
 
 # 高雄和平浸信會
-![QR Code](/img/hbc-qrcode.png "QR Code")
+![QR Code](hbc-qrcode.png "QR Code")
 
 ## 聚會時間地點
 * 主日崇拜（台語）：週日 08:30~09:30 五樓聖殿
