@@ -13,7 +13,7 @@ mathjax: true
 ---
 
 # 高雄和平浸信會
-![](/hbc-qrcode.png)
+![](hbc-qrcode.png)
 
 ## 聚會時間地點
 * 主日崇拜（台語）：週日 08:30~09:30 五樓聖殿
@@ -28,7 +28,7 @@ mathjax: true
 ## 教會資訊
 * 成立於1968年8月4日
 * 地址：高雄市苓雅區四維二路101號
-* ![](/map.png)<a href="https://www.google.com.tw/maps/place/802%E9%AB%98%E9%9B%84%E5%B8%82%E8%8B%93%E9%9B%85%E5%8D%80%E5%9B%9B%E7%B6%AD%E4%BA%8C%E8%B7%AF101%E8%99%9F/@22.6226847,120.3182822,17z/data=!3m1!4b1!4m5!3m4!1s0x346e049800059dd1:0x89f042fe20621294!8m2!3d22.6226847!4d120.3204709?hl=zh-TW" target="_blank">地圖</a>
+* ![](map.png)<a href="https://www.google.com.tw/maps/place/802%E9%AB%98%E9%9B%84%E5%B8%82%E8%8B%93%E9%9B%85%E5%8D%80%E5%9B%9B%E7%B6%AD%E4%BA%8C%E8%B7%AF101%E8%99%9F/@22.6226847,120.3182822,17z/data=!3m1!4b1!4m5!3m4!1s0x346e049800059dd1:0x89f042fe20621294!8m2!3d22.6226847!4d120.3204709?hl=zh-TW" target="_blank">地圖</a>
 * 電話：07-7618842
 * 傳真：07-7618861
 
