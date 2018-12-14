@@ -13,7 +13,7 @@ mathjax: true
 ---
 
 # 高雄和平浸信會
-![教會網址二維條碼](/images/hbc-qrcode.png "教會網址二維條碼")  
+![教會網址二維條碼](/images/qrcode-hbc.png "教會網址二維條碼")  
 
 ![教會一樓大門](/images/hbc01.jpg "教會一樓大門")  
 
