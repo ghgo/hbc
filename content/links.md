@@ -14,13 +14,17 @@ mathjax: true
 
 ## 線上聖經
 
+### <a href="https://www.biblegateway.com/" target="_blank">BibleGateway 各國版本</a>
+
 ### <a href="http://cb.fhl.net/" target="_blank">台灣聖經公會聖經網站</a>
 
-### <a href="https://www.biblegateway.com/" target="_blank">BibleGateway</a>
+## 聖經查詢、離線聖經、聖經查詢串珠
 
-## 離線聖經
+### <a href="/OfflineBible076/index.html" target="_blank">聖經查詢系統 - by springman 司布林</a>
 
-### <a href="http://springbible.fhl.net/OfflineBible/offline.html" target="_blank">離線聖經查詢系統</a>
+### <a href="http://springbible.fhl.net/OfflineBible/offline.html" target="_blank">離線聖經查詢系統及下載 - by springman 司布林</a>
+
+### <a href="https://thingclear.com/Bible/vol.php?_Lng=B5" target="_blank">聖經查詢串珠</a>
 
 ## 原文研經工具
 
