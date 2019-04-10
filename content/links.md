@@ -26,6 +26,10 @@ mathjax: true
 
 ### <a href="https://thingclear.com/Bible/vol.php?_Lng=B5" target="_blank">聖經查詢串珠</a>
 
+## 基督信仰電子書舘
+
+### <a href="https://www.ccel.org/" target="_blank">the Christian Classics Ethereal Library (CCEL)</a>
+
 ## 原文研經工具
 
 ### <a href="http://a2z.fhl.net/php/parsing.php?engs=Gen&chap=1&sec=1" target="_blank">CBOL 舊約 Parsing 系統</a>
