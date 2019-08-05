@@ -36,6 +36,8 @@ mathjax: true
 
 ### <a href="https://bible.fhl.net/new/fhlwhparsing.php?engs=Matt&chap=1&sec=1" target="_blank">CBOL 新約 Parsing 系統</a>
 
+### <a href="https://biblehub.com/interlinear/apostolic/" target="_blank">七十士譯本</a>
+
 ## 聖詩
 
 ### <a href="http://www.hymncompanions.org/index2.php" target="_blank">荒漠甘泉  樂侶</a>
